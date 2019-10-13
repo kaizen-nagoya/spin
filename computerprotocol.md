@@ -1,39 +1,45 @@
-「コンピュータプロトコルの設計法」に学ぶ
-通信規約
-
 コンピュータプロトコルの設計法―正しいプロトコルの設計と検証へ導く総合解説書 
-413zZXb6L0L._SX353_BO1,204,203,200_.jpg
+![413zZXb6L0L._SX353_BO1,204,203,200_.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/51423/0c81a240-6eb3-98cb-e87d-4af78f0a8d45.jpeg)
 https://www.amazon.co.jp/dp/4906391109/
-p.3
-のろしと警報
-p.4
-1
 
+p.3
+>のろしと警報
+
+p.4
+##1 
 Histories. With an English translation by W.R. Paton
 by Polybius; Paton, W. R. (William Roger), 1857-1921
 https://archive.org/details/historieswitheng00polyuoft/page/n6
-p.5
-プロトコル設計の最も難しい点は、予期できないことを明確に予想しておかなければならないことにある。
-p.6
-2
 
+p.5
+> プロトコル設計の最も難しい点は、予期できないことを明確に予想しておかなければならないことにある。
+
+p.6
+##2 
 Sidereus Nuncius: The Starry Messenger
 http://www.sites.hps.cam.ac.uk/starry/galsidnun.html
 http://people.reed.edu/~wieting/mathematics537/SideriusNuncius.pdf
+
 p.7
 A.N. Edelcrantz, Avhandling om Tlelegrapher
+
 The Use of Optical Telegraphs in England and Elsewhere (Die optis- che Telegraphie in England und anderen La ̈ndern)
 Gerard J. Holzmann
 https://pdfs.semanticscholar.org/242a/c5fa581c4ceaeda821d5ca00a034918a0104.pdf
-p.9
-p.20
-SDL（the Specification and Description Language), Lotos(The language of temporal ordering specification), Estelleの紹介あり。
-参考資料
 
+p.9
+
+
+p.20
+>SDL（the Specification and Description Language), Lotos(The language of temporal ordering specification), Estelleの紹介あり。
+
+#参考資料
 A multi-paradigm language for reactive synthesis
 Ioannis Filippidis, Richard M. Murray, Gerard J. Holzmann
 https://arxiv.org/abs/1602.01173
+
 Reference
+
 [1] open-PROMELA compiler (PYTHON package). Available at https://github.com/johnyf/ openpromela.
 [2] PROMELA parser (PYTHON package). Available at https://github.com/johnyf/promela.
 [3] SLUGS instrumentation at tag synt 2015. Available at https://github.com/johnyf/slugs.
@@ -121,7 +127,7 @@ doi:10.1109/SFCS.2005.66.
 [74] KennethLauchlinMcMillan(1992):Symbolicmodelchecking:Anapproachtothestateexplosionproblem. Ph.D. thesis, Carnegie Mellon University, Pittsburgh, PA, USA, doi:10.1007/978-1-4615-3190-6. Available at http://www.kenmcmil.com/pubs/thesis.pdf. UMI Order No. GAX92-24209.
 [75] George H Mealy (1955): A method for synthesizing sequential circuits. Bell System Technical Journal 34(5), pp. 1045–1079, doi:10.1002/j.1538-7305.1955.tb03788.x.
 [76] Edward F Moore (1956): Gedanken-experiments on sequential machines. Automata studies 34, pp. 129– 153.
-[77] A. Morgenstern (2010): Symbolic controller synthesis for LTL specifications. Ph.D. thesis, Com- puter Science. Available at http://nbn-resolving.de/urn/resolver.pl?urn:nbn:flag_de:hbz: 386-kluedo-25721.
+[77] A. Morgenstern (2010): Symbolic controller synthesis for LTL specifications. Ph.D. thesis, Com- puter Science. Available at http://nbn-resolving.de/urn/resolver.pl?urn:nbn:de:hbz: 386-kluedo-25721.
 [78] A. Morgenstern & K. Schneider (2011): A LTL fragment for GR(1)-synthesis. EPTCS 50, pp. 33–45, doi:10.4204/EPTCS.50.3.
 [79] David E Muller, Ahmed Saoudi & Paul E Schupp (1986): Alternating automata, the weak monadic theory
 of the tree, and its complexity. In: ICALP, pp. 275–283, doi:10.1007/3-540-16761-7 77.
